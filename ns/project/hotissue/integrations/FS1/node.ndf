@@ -32,7 +32,7 @@
           <value name="form_qualified">false</value>
           <value name="is_global">false</value>
           <value name="modifiable">true</value>
-          <value name="rec_ref">project.hotissue.documenttypes:Doc1</value>
+          <value name="rec_ref"></value>
         </record>
       </array>
       <value name="modifiable">true</value>
